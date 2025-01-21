@@ -89,6 +89,6 @@ Profit Analysis:
 - Enhanced visualization techniques.
 
 ## Contact
-For any queries or feedback, please reach out to [Your Email].
-[Email](vaibhavpandya2903@gmail.com)
+For any queries or feedback, please reach out to -<br>
+Email: vaibhavpandya2903@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/vaibhavpandya2903/)
