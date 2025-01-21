@@ -89,6 +89,12 @@ Profit Analysis:<br>
 ![image](https://github.com/user-attachments/assets/688feed5-26d9-4142-bcb7-4549cc5cee4d)
 <br>
 
+
+## Challenges Faced
+- Handling large datasets and ensuring optimal performance.
+- Maintaining data accuracy and consistency across different sources.
+- Designing intuitive and user-friendly dashboards.
+
 ## Future Enhancements
 - Integration with live data sources.
 - Advanced predictive analytics.
