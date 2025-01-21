@@ -86,7 +86,8 @@ Key Insights:
 
 Profit Analysis:
 
-![image](https://github.com/user-attachments/assets/08cf58ee-5b87-4969-9f0d-161e746e0830)
+![image](https://github.com/user-attachments/assets/1b604f52-c4e2-47c0-84bf-17347908635d)
+
 
 
 ## Future Enhancements
