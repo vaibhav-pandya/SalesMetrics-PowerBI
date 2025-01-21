@@ -75,13 +75,19 @@ This Power BI project provides an in-depth analysis of sales data for Atliq Hard
 
 ## Screenshots
 Home Page:
+
 ![image](https://github.com/user-attachments/assets/eabdf597-b4cb-4bb2-9a22-2e8d7469fba3)
 
+
 Key Insights:
+
 ![image](https://github.com/user-attachments/assets/d3fb15e4-ff92-414f-ab08-4a45b3efe1d0)
 
+
 Profit Analysis:
+
 ![image](https://github.com/user-attachments/assets/08cf58ee-5b87-4969-9f0d-161e746e0830)
+
 
 ## Future Enhancements
 - Integration with live data sources.
