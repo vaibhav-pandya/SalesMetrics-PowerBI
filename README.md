@@ -7,6 +7,7 @@
 - [Dashboard Components](#dashboard-components)
 - [Tools & Technologies Used](#tools--technologies-used)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
+- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
 
@@ -72,6 +73,16 @@ This Power BI project provides an in-depth analysis of sales data for Atliq Hard
 2. Explore the different tabs for insights on revenue, sales, and profit.
 3. Use filters to view specific time periods, regions, or customers.
 
+## Screenshots
+Home Page:
+![image](https://github.com/user-attachments/assets/eabdf597-b4cb-4bb2-9a22-2e8d7469fba3)
+
+Key Insights:
+![image](https://github.com/user-attachments/assets/d3fb15e4-ff92-414f-ab08-4a45b3efe1d0)
+
+Profit Analysis:
+![image](https://github.com/user-attachments/assets/08cf58ee-5b87-4969-9f0d-161e746e0830)
+
 ## Future Enhancements
 - Integration with live data sources.
 - Advanced predictive analytics.
@@ -79,9 +90,5 @@ This Power BI project provides an in-depth analysis of sales data for Atliq Hard
 
 ## Contact
 For any queries or feedback, please reach out to [Your Email].
-
----
-
-**Project by:** [Your Name]  
-**Date:** [Project Completion Date]
-
+[Email](vaibhavpandya2903@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vaibhavpandya2903/)
