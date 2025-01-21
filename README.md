@@ -74,21 +74,20 @@ This Power BI project provides an in-depth analysis of sales data for Atliq Hard
 3. Use filters to view specific time periods, regions, or customers.
 
 ## Screenshots
-Home Page:
+Home Page:<br>
 
 ![image](https://github.com/user-attachments/assets/eabdf597-b4cb-4bb2-9a22-2e8d7469fba3)
+<br>
 
-
-Key Insights:
+Key Insights:<br>
 
 ![image](https://github.com/user-attachments/assets/d3fb15e4-ff92-414f-ab08-4a45b3efe1d0)
+<br>
 
+Profit Analysis:<br>
 
-Profit Analysis:
-
-![image](https://github.com/user-attachments/assets/1b604f52-c4e2-47c0-84bf-17347908635d)
-
-
+![image](https://github.com/user-attachments/assets/688feed5-26d9-4142-bcb7-4549cc5cee4d)
+<br>
 
 ## Future Enhancements
 - Integration with live data sources.
