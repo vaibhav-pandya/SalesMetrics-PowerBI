@@ -8,7 +8,7 @@
 - [Tools & Technologies Used](#tools--technologies-used)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
 - [Screenshots](#screenshots)
-- [Challenges Faced](#challengesfaced)
+- [Challenges Faced](#challenges-faced)
 - [Future Enhancements](#future-enhancements)
 - [Contact](#contact)
 
