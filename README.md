@@ -13,7 +13,7 @@
 - [Contact](#contact)
 
 ## Overview
-This Power BI project provides an in-depth analysis of sales data for Atliq Hardware, a consumer electronics business. The dashboard offers insights into key performance indicators (KPIs) such as revenue, sales quantity, and profit margins across various regions, customers, and products.
+This Power BI project provides an in-depth analysis of sales data for a consumer electronics business. The dashboard offers insights into key performance indicators (KPIs) such as revenue, sales quantity, and profit margins across various regions, customers, and products.
 
 ## Features
 - **Revenue Analysis:**
